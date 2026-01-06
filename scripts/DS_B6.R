@@ -5,6 +5,7 @@ cat("Project output logging started...\n")
 # Car Data Analysis Project (Beginner Version)
 # ============================================
 
+
 # 1. Load required libraries
 # (Install once if not already installed)
 
