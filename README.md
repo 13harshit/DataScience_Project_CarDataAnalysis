@@ -5,13 +5,6 @@ This project analyzes car performance using data science techniques.
 We clean data, visualize trends, analyze correlations, and build a predictive model
 to understand what factors influence fuel efficiency.
 
-## Team Members
-876 Pukale Sujay  
-877 Puthran Akshata  
-878 Rai Harshit  
-879 Rajbhar Priya  
-880 Rane Aryan  
-
 ## Tools & Libraries
 - R Programming
 - ggplot2
@@ -27,3 +20,5 @@ to understand what factors influence fuel efficiency.
 - Car weight strongly affects fuel efficiency
 - Horsepower reduces mileage
 - Manual transmission gives better mileage
+
+## By Harshit Rai
